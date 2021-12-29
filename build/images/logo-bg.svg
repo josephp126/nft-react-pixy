@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="483" height="465.333" viewBox="0 0 483 465.333">
+  <defs>
+    <filter id="Polygon_2" x="0" y="0" width="483" height="465.333" filterUnits="userSpaceOnUse">
+      <feOffset dx="-2" dy="-2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-color="#3758ff"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.013" y1="0.475" x2="1.024" y2="0.638" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#28b5f4" stop-opacity="0.11"/>
+      <stop offset="1" stop-color="#3758ff" stop-opacity="0.659"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_433" data-name="Group 433" transform="translate(-716.5 -236.333)">
+    <g id="Group_18" data-name="Group 18" transform="translate(726 245.833)">
+      <g id="Group_17" data-name="Group 17" transform="translate(0 0)">
+        <g transform="matrix(1, 0, 0, 1, -9.5, -9.5)" filter="url(#Polygon_2)">
+          <g id="Polygon_2-2" data-name="Polygon 2" transform="translate(165.5 9.5) rotate(30)" fill="none">
+            <path d="M270.2,0l90.067,156L270.2,312H90.067L0,156,90.067,0Z" stroke="none"/>
+            <path d="M 90.64401245117188 1 L 1.15472412109375 155.9999694824219 L 90.64401245117188 310.9999389648438 L 269.6225280761719 310.9999389648438 L 359.11181640625 155.9999694824219 L 269.6225280761719 1 L 90.64401245117188 1 M 90.06661987304688 0 L 270.1998901367188 0 L 360.2665405273438 155.9999694824219 L 270.1998901367188 311.9999389648438 L 90.06661987304688 311.9999389648438 L 0 155.9999694824219 L 90.06661987304688 0 Z" stroke="none" fill="#3758ff"/>
+          </g>
+        </g>
+        <path id="Path_9" data-name="Path 9" d="M270.2,0l90.067,156L270.2,312H90.067L0,156,90.067,0Z" transform="translate(156 0) rotate(30)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>
