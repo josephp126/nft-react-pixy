@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.a71618e2.js",
-    "static/js/787.19939535.chunk.js": "/static/js/787.19939535.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.71265703.css",
+    "main.js": "/static/js/main.954e1486.js",
+    "static/js/787.aa34f9ae.chunk.js": "/static/js/787.aa34f9ae.chunk.js",
+    "static/media/mintbackground.png": "/static/media/mintbackground.69864d883e5d3de67d9c.png",
+    "static/media/centerscroll.png": "/static/media/centerscroll.55623587bd9243f20e39.png",
+    "static/media/reservebutton.png": "/static/media/reservebutton.0e1daa5aa43857a2ce54.png",
+    "static/media/logo.png": "/static/media/logo.a67234908fe1999ad1dc.png",
+    "static/media/friz-quadrata-std-bold-587034a220f9f.otf": "/static/media/friz-quadrata-std-bold-587034a220f9f.ba6932e728cab5c28126.otf",
+    "static/media/connectwalletbutton.png": "/static/media/connectwalletbutton.cc5824d80b7c02315aff.png",
+    "static/media/classiconsquare.png": "/static/media/classiconsquare.8482af3ed29f44717c9a.png",
+    "static/media/vectorline-2.png": "/static/media/vectorline-2.f331dae840c5e3f841cd.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.a71618e2.js.map": "/static/js/main.a71618e2.js.map",
-    "787.19939535.chunk.js.map": "/static/js/787.19939535.chunk.js.map"
+    "main.71265703.css.map": "/static/css/main.71265703.css.map",
+    "main.954e1486.js.map": "/static/js/main.954e1486.js.map",
+    "787.aa34f9ae.chunk.js.map": "/static/js/787.aa34f9ae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a71618e2.js"
+    "static/css/main.71265703.css",
+    "static/js/main.954e1486.js"
   ]
 }
