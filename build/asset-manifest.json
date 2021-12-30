@@ -1,23 +1,42 @@
 {
   "files": {
-    "main.css": "/static/css/main.71265703.css",
-    "main.js": "/static/js/main.954e1486.js",
+    "main.css": "/static/css/main.a3d918b2.css",
+    "main.js": "/static/js/main.74ff48e1.js",
     "static/js/787.aa34f9ae.chunk.js": "/static/js/787.aa34f9ae.chunk.js",
+    "static/media/lastbg.png": "/static/media/lastbg.0da39fda2ff6543e22ba.png",
+    "static/media/bg-img.png": "/static/media/bg-img.70536f1445bb96312fc2.png",
+    "static/media/firesword.png": "/static/media/firesword.344509aeaf72446dd50b.png",
+    "static/media/charactersheet.png": "/static/media/charactersheet.c65d7818c6988f20497a.png",
     "static/media/mintbackground.png": "/static/media/mintbackground.69864d883e5d3de67d9c.png",
     "static/media/centerscroll.png": "/static/media/centerscroll.55623587bd9243f20e39.png",
+    "static/media/craftingbackground.png": "/static/media/craftingbackground.cab0af2be54e721dce08.png",
+    "static/media/roadmapbg.png": "/static/media/roadmapbg.cab0af2be54e721dce08.png",
+    "static/media/firesword1.png": "/static/media/firesword1.08f22e55a5d52967b1b4.png",
+    "static/media/icesword.png": "/static/media/icesword.f7e4cc27b9f234ed8655.png",
+    "static/media/lightsword.png": "/static/media/lightsword.4f38a47496bb34ac1752.png",
+    "static/media/crescent2.png": "/static/media/crescent2.522ec12ba694dcb173ab.png",
+    "static/media/crescent1.png": "/static/media/crescent1.2786bb15e04cc6c37527.png",
     "static/media/reservebutton.png": "/static/media/reservebutton.0e1daa5aa43857a2ce54.png",
+    "static/media/darksword.png": "/static/media/darksword.4823e6d7f5773d222ccd.png",
     "static/media/logo.png": "/static/media/logo.a67234908fe1999ad1dc.png",
     "static/media/friz-quadrata-std-bold-587034a220f9f.otf": "/static/media/friz-quadrata-std-bold-587034a220f9f.ba6932e728cab5c28126.otf",
+    "static/media/4epic.png": "/static/media/4epic.11f60737a7548689738b.png",
+    "static/media/1common.png": "/static/media/1common.d63105070e46bd9b6fc3.png",
+    "static/media/5legendary.png": "/static/media/5legendary.664cb1023b9c00c8b4fc.png",
+    "static/media/3rare.png": "/static/media/3rare.d4785003163518663f11.png",
+    "static/media/2uncommon.png": "/static/media/2uncommon.49578292c42abe60f659.png",
     "static/media/connectwalletbutton.png": "/static/media/connectwalletbutton.cc5824d80b7c02315aff.png",
+    "static/media/character-back.png": "/static/media/character-back.54e144ad5265dd64ecf7.png",
+    "static/media/team-back.png": "/static/media/team-back.29e3f2418863b063f597.png",
     "static/media/classiconsquare.png": "/static/media/classiconsquare.8482af3ed29f44717c9a.png",
     "static/media/vectorline-2.png": "/static/media/vectorline-2.f331dae840c5e3f841cd.png",
     "index.html": "/index.html",
-    "main.71265703.css.map": "/static/css/main.71265703.css.map",
-    "main.954e1486.js.map": "/static/js/main.954e1486.js.map",
+    "main.a3d918b2.css.map": "/static/css/main.a3d918b2.css.map",
+    "main.74ff48e1.js.map": "/static/js/main.74ff48e1.js.map",
     "787.aa34f9ae.chunk.js.map": "/static/js/787.aa34f9ae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71265703.css",
-    "static/js/main.954e1486.js"
+    "static/css/main.a3d918b2.css",
+    "static/js/main.74ff48e1.js"
   ]
 }
