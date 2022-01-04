@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.a3d918b2.css",
-    "main.js": "/static/js/main.74ff48e1.js",
+    "main.css": "/static/css/main.b84947fe.css",
+    "main.js": "/static/js/main.6a4cfd93.js",
     "static/js/787.aa34f9ae.chunk.js": "/static/js/787.aa34f9ae.chunk.js",
     "static/media/lastbg.png": "/static/media/lastbg.0da39fda2ff6543e22ba.png",
     "static/media/bg-img.png": "/static/media/bg-img.70536f1445bb96312fc2.png",
-    "static/media/firesword.png": "/static/media/firesword.344509aeaf72446dd50b.png",
-    "static/media/charactersheet.png": "/static/media/charactersheet.c65d7818c6988f20497a.png",
+    "static/media/charactersheet2.png": "/static/media/charactersheet2.95ba4e0e8efa28bd4f12.png",
     "static/media/mintbackground.png": "/static/media/mintbackground.69864d883e5d3de67d9c.png",
     "static/media/centerscroll.png": "/static/media/centerscroll.55623587bd9243f20e39.png",
     "static/media/craftingbackground.png": "/static/media/craftingbackground.cab0af2be54e721dce08.png",
-    "static/media/roadmapbg.png": "/static/media/roadmapbg.cab0af2be54e721dce08.png",
     "static/media/firesword1.png": "/static/media/firesword1.08f22e55a5d52967b1b4.png",
     "static/media/icesword.png": "/static/media/icesword.f7e4cc27b9f234ed8655.png",
     "static/media/lightsword.png": "/static/media/lightsword.4f38a47496bb34ac1752.png",
@@ -29,14 +27,15 @@
     "static/media/character-back.png": "/static/media/character-back.54e144ad5265dd64ecf7.png",
     "static/media/team-back.png": "/static/media/team-back.29e3f2418863b063f597.png",
     "static/media/classiconsquare.png": "/static/media/classiconsquare.8482af3ed29f44717c9a.png",
+    "static/media/charactersheet1.png": "/static/media/charactersheet1.9dd698b53995eae706bd.png",
     "static/media/vectorline-2.png": "/static/media/vectorline-2.f331dae840c5e3f841cd.png",
     "index.html": "/index.html",
-    "main.a3d918b2.css.map": "/static/css/main.a3d918b2.css.map",
-    "main.74ff48e1.js.map": "/static/js/main.74ff48e1.js.map",
+    "main.b84947fe.css.map": "/static/css/main.b84947fe.css.map",
+    "main.6a4cfd93.js.map": "/static/js/main.6a4cfd93.js.map",
     "787.aa34f9ae.chunk.js.map": "/static/js/787.aa34f9ae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3d918b2.css",
-    "static/js/main.74ff48e1.js"
+    "static/css/main.b84947fe.css",
+    "static/js/main.6a4cfd93.js"
   ]
 }
